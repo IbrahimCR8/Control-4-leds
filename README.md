@@ -6,11 +6,11 @@ A real-time computer vision and hardware integration project that tracks hand ge
 
 ## 1. Circuit Diagram 
 
-Thumb LED: Connect Arduino Pin 2 $\rightarrow$ Resistor $\rightarrow$ LED Long Leg (+). Connect LED Short Leg (-) to GND.
-Index LED: Connect Arduino Pin 3 $\rightarrow$ Resistor $\rightarrow$ LED Long Leg (+). Connect LED Short Leg (-) to GND.
-Middle LED: Connect Arduino Pin 4 $\rightarrow$ Resistor $\rightarrow$ LED Long Leg (+). Connect LED Short Leg (-) to GND.
-Ring LED: Connect Arduino Pin 5 $\rightarrow$ Resistor $\rightarrow$ LED Long Leg (+). Connect LED Short Leg (-) to GND.
-Pinky LED: Connect Arduino Pin 6 $\rightarrow$ Resistor $\rightarrow$ LED Long Leg (+). Connect LED Short Leg (-) to GND.
+- Thumb LED: Connect Arduino Pin 2 $\rightarrow$ Resistor $\rightarrow$ LED Long Leg (+). Connect LED Short Leg (-) to GND.
+- Index LED: Connect Arduino Pin 3 $\rightarrow$ Resistor $\rightarrow$ LED Long Leg (+). Connect LED Short Leg (-) to GND.
+- Middle LED: Connect Arduino Pin 4 $\rightarrow$ Resistor $\rightarrow$ LED Long Leg (+). Connect LED Short Leg (-) to GND.
+- Ring LED: Connect Arduino Pin 5 $\rightarrow$ Resistor $\rightarrow$ LED Long Leg (+). Connect LED Short Leg (-) to GND.
+- Pinky LED: Connect Arduino Pin 6 $\rightarrow$ Resistor $\rightarrow$ LED Long Leg (+). Connect LED Short Leg (-) to GND.
 
 ## 1. Arduino Setup
 
